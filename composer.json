@@ -6,5 +6,10 @@
             "name": "Yann Lazerges",
             "email": "yl@vi-live.fr"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yanlaz\\Vitrans\\": ""
+        }
+    }
 }
