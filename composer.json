@@ -1,0 +1,10 @@
+{
+    "name": "Yanlaz/Vitrans/",
+    "description" : "Simple Translate Library"
+    "author":  [
+        {
+            "name": "Yann Lazerges",
+            "email": "yl@vi-live.fr"
+        }
+    ]
+}
